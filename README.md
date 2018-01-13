@@ -3,6 +3,7 @@
 **Vehicle Detection Project**
 
 [//]: # (Image References)
+
 [image1]: ./output_images/hog.png
 [image2]: ./output_images/hog_on_car.png
 [image3]: ./output_images/befor_heatmap.png
