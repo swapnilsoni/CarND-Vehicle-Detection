@@ -1,21 +1,18 @@
----
-
 **Vehicle Detection Project**
+
+---
 
 [//]: # (Image References)
 
-[image1]: ./output_images/hog.png
-[image2]: ./output_images/hog_on_car.png
-[image3]: ./output_images/befor_heatmap.png
-[image4]: ./output_images/half_image.png
-[image8]: ./output_images/boxed_car.png
-[image5]: ./output_images/heatmap.png
-[image6]: ./output_images/heatmap_label.png
-[image7]: ./output_images/image_found.png
+[image1]: ./output_images/hog.png " "
+[image2]: ./output_images/hog_on_car.png " "
+[image3]: ./output_images/befor_heatmap.png " "
+[image4]: ./output_images/half_image.png " "
+[image5]: ./output_images/heatmap.png " "
+[image6]: ./output_images/heatmap_label.png " "
+[image7]: ./output_images/image_found.png " "
+[image8]: ./output_images/boxed_car.png " "
 [video1]: ./project_video.mp4
-
-## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
-### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
 
 ---
 
